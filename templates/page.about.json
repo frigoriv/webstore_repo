@@ -1,0 +1,393 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "00f26cb6-f6a0-4823-ad17-6ddb1dc0db9f": {
+      "type": "home-custom-section",
+      "blocks": {
+        "dcf42c4d-94c9-47de-80a7-1a8469c6800f": {
+          "type": "content",
+          "settings": {
+            "block_heading": "Our cosmetic products will help you to get rid of your skin problems",
+            "block_sub_heading": "ABOUT OUR PRODUCTS",
+            "block_description": "",
+            "html": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "heading_position": "text-start",
+            "block_img_1": "shopify:\/\/shop_images\/Rectangle_805.jpg"
+          }
+        },
+        "63aab0d3-b4be-4dc8-8445-0f61300d0504": {
+          "type": "content",
+          "settings": {
+            "block_heading": "",
+            "block_sub_heading": "",
+            "block_description": "Tellus at urna condimentum mattis. Nullam eget felis eget nunc lobortis mattis. Arcu non sodales neque sodales ut etiam sit amet. Nulla porttitor massa id neque aliquam vestibulum morbi. Blandit libero volutpat sed cras ornare arcu. Risus nec feugiat in fermentum posuere urna nec. Viverra ipsum nunc aliquet bibendum.",
+            "html": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "heading_position": "text-start",
+            "block_img_1": "shopify:\/\/shop_images\/Rectangle_805_copy.jpg",
+            "block_img_2": "shopify:\/\/shop_images\/Signature.png"
+          }
+        }
+      },
+      "block_order": [
+        "dcf42c4d-94c9-47de-80a7-1a8469c6800f",
+        "63aab0d3-b4be-4dc8-8445-0f61300d0504"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "bg_image": "shopify:\/\/shop_images\/Group_24621.png",
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "left",
+        "color_scheme": "background-1",
+        "content_width": "52\/43",
+        "lap_content_width": "50\/40",
+        "column_gap": "30",
+        "padding_top": 56,
+        "padding_bottom": 160,
+        "custom_class_name": "custom-home-section"
+      }
+    },
+    "4fe52219-e37f-4e2c-afc0-9042dcb4e6c9": {
+      "type": "number-counter",
+      "blocks": {
+        "9a61115e-dc99-4c06-8ebd-cfb070b63dc9": {
+          "type": "icon",
+          "settings": {
+            "title": "ORGANIC PRODUCTS",
+            "text": "",
+            "value": "30",
+            "value_text": "+",
+            "column_alignment": "left"
+          }
+        },
+        "745f4df9-7bc8-458c-b13b-02d9f7d24661": {
+          "type": "icon",
+          "settings": {
+            "title": "HAPPY CLIENTS",
+            "text": "",
+            "value": "10",
+            "value_text": "K",
+            "column_alignment": "left"
+          }
+        },
+        "13045a2b-2928-41a0-8d4c-e1b3016e9cc7": {
+          "type": "icon",
+          "settings": {
+            "title": "BRANCHES",
+            "text": "",
+            "value": "10",
+            "value_text": "+",
+            "column_alignment": "left"
+          }
+        },
+        "77c9c9fb-6c21-4f02-a2a1-47dd7d049e04": {
+          "type": "icon",
+          "settings": {
+            "title": "BEAUTICIANS",
+            "text": "",
+            "value": "200",
+            "value_text": "+",
+            "column_alignment": "left"
+          }
+        }
+      },
+      "block_order": [
+        "9a61115e-dc99-4c06-8ebd-cfb070b63dc9",
+        "745f4df9-7bc8-458c-b13b-02d9f7d24661",
+        "13045a2b-2928-41a0-8d4c-e1b3016e9cc7",
+        "77c9c9fb-6c21-4f02-a2a1-47dd7d049e04"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "Views From Our CEO",
+        "heading_size": "h1",
+        "sub_heading": "ABOUT US",
+        "description": "Aenean semper urna sed nisl dignissim, at bibendum nulla pulvinar. Nullam placerat, massa in dapibus venenatis, turpis ex lobortis elit, et rhoncus dolor risus ac enim. Vestibulum quis feugiat eros. Fusce erat massa, lacinia quis consectetur a, imperdiet et risus. In sit amet hend rerit elit. Cras et ante sit amet urna ornare euismod in sed arcu. Donec ultricies.",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "columns_desktop": 4,
+        "color_scheme": "accent-2",
+        "enable_social_section": true,
+        "author_image": "shopify:\/\/shop_images\/Group_8.png",
+        "author_name": "DANIAL POARCHE - CEO",
+        "show_social_icons": true,
+        "before_bg_image": "shopify:\/\/shop_images\/Group_14.png",
+        "after_bg_image": "shopify:\/\/shop_images\/Group_18.png",
+        "padding_top": 160,
+        "padding_bottom": 160,
+        "custom_class_name": "custom-number-counter"
+      }
+    },
+    "ed61348d-9a42-4850-932f-48fada0ee94d": {
+      "type": "contact-section",
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "Make An Appointment With A Hairstylist",
+        "heading_size": "h1",
+        "sub_heading": "LOOK PRETY",
+        "description": "NullaMorbi ut libero sit amet justo tempus pellentesque. Duis maximus Mo rbi ut libero sit amet justo tempus pellentesque. Duis maximus lacinia quam elementum pretium. Nulla nec purus vel orci pellentesque ultrices sed.",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "left",
+        "contact-heading_phone": "Contact Us",
+        "contact_phone_no": "000 - 123 - 456789",
+        "contact_email": "info@example.com",
+        "contact_opening_details": "Openning Hours",
+        "contact_detail_1": "Mon - Fri : 09.00 am - 05.00 pm",
+        "contact_detail_2": "Sat & Sun : 09:30 am - 08.00 pm",
+        "contact-heading_address": "",
+        "contact_address": "",
+        "contact-heading_social": "",
+        "show_social_icons": false,
+        "contact_button_label": "BOOK A SLOT",
+        "contact_button_link": "\/",
+        "secondary_bg_image": "shopify:\/\/shop_images\/Group_24623.png",
+        "block_image": "shopify:\/\/shop_images\/AdobeStock_168411376.jpg",
+        "padding_top": 160,
+        "padding_bottom": 160,
+        "custom_class_name": ""
+      }
+    },
+    "8dc07054-0180-4482-8eb9-9cd91ba83a24": {
+      "type": "inner-page-team-section",
+      "blocks": {
+        "0a406b42-6b17-4eb2-adca-450fd764d2a8": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/01.png",
+            "show_content": true,
+            "block_title": "Laara Dan",
+            "block_sub_title": "TANNING CONSULTANT",
+            "block_description": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "93e604c6-b000-4c47-a4ac-f3156b8126db": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/02.png",
+            "show_content": true,
+            "block_title": "Eva Mathew",
+            "block_sub_title": "HAIR STYLIST",
+            "block_description": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "7b1b925e-ccc5-4050-a726-fb5db1235a52": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/03.png",
+            "show_content": true,
+            "block_title": "Jasmine",
+            "block_sub_title": "NAIL ARTIST",
+            "block_description": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        },
+        "1dd47296-361b-435f-b317-1a12e7cf003a": {
+          "type": "text",
+          "settings": {
+            "block_image": "shopify:\/\/shop_images\/04.png",
+            "show_content": true,
+            "block_title": "Zaara Asif",
+            "block_sub_title": "MANAGER",
+            "block_description": "",
+            "block_button_text": "",
+            "block_button_link": "",
+            "desktop_content_alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "0a406b42-6b17-4eb2-adca-450fd764d2a8",
+        "93e604c6-b000-4c47-a4ac-f3156b8126db",
+        "7b1b925e-ccc5-4050-a726-fb5db1235a52",
+        "1dd47296-361b-435f-b317-1a12e7cf003a"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "Meet Our Beauticians",
+        "heading_size": "h1",
+        "sub_heading": "TEAM",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "team-section": "4",
+        "color_scheme": "accent-2",
+        "padding_top": 120,
+        "padding_bottom": 120,
+        "custom_class_name": "custom-team-section",
+        "swiper_enable": true,
+        "desktop_column": 4,
+        "laptop_column": 3,
+        "tablet_column": 2,
+        "mobile_column": 1,
+        "centered_slide": false,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 4
+      }
+    },
+    "9cd7af0f-c52e-4064-99f9-efe9854098b6": {
+      "type": "featured-blog",
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "Latest Blogs About Cosmetics",
+        "heading_size": "h1",
+        "sub_heading": "NEWS UPDATION",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "blog": "news",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "accent-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_excerpts": true,
+        "enable_comments": false,
+        "show_view_all": false,
+        "block_banner_style": "grid-style",
+        "content_width": "50\/50",
+        "lap_content_width": "40\/60",
+        "overlay_style_height": 400,
+        "overlay_opacity": "0.5",
+        "padding_top": 160,
+        "padding_bottom": 120,
+        "custom_class_name": "custom-blog",
+        "swiper_enable": false,
+        "desktop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0,
+        "swipe_on_mobile": true,
+        "arrow_on_mobile": true,
+        "columns_mobile": "1"
+      }
+    },
+    "3de36204-ca1f-4ef5-81c1-753e11089d58": {
+      "type": "brand-logos",
+      "blocks": {
+        "template--18804265517352__3de36204-ca1f-4ef5-81c1-753e11089d58-1684159119a4ec3e30-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_1.png",
+            "link": "\/"
+          }
+        },
+        "template--18804265517352__3de36204-ca1f-4ef5-81c1-753e11089d58-1684159119a4ec3e30-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_2.png",
+            "link": "\/"
+          }
+        },
+        "template--18804265517352__3de36204-ca1f-4ef5-81c1-753e11089d58-1684159119a4ec3e30-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_3.png",
+            "link": "\/"
+          }
+        },
+        "d3f1282d-3b32-4374-aa20-c6ad41d8689c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_4.png",
+            "link": "\/"
+          }
+        },
+        "e7a01f75-e764-4897-b473-024621d4f8c3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_5.png",
+            "link": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--18804265517352__3de36204-ca1f-4ef5-81c1-753e11089d58-1684159119a4ec3e30-0",
+        "template--18804265517352__3de36204-ca1f-4ef5-81c1-753e11089d58-1684159119a4ec3e30-1",
+        "template--18804265517352__3de36204-ca1f-4ef5-81c1-753e11089d58-1684159119a4ec3e30-2",
+        "d3f1282d-3b32-4374-aa20-c6ad41d8689c",
+        "e7a01f75-e764-4897-b473-024621d4f8c3"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "block_color_scheme": "background-1",
+        "padding_top": 20,
+        "padding_bottom": 40,
+        "custom_class_name": "custom-brandlogo",
+        "swiper_enable": false,
+        "desktop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "centered_slide": false,
+        "auto_play": 0,
+        "swipe_on_mobile": true,
+        "columns_mobile": "1"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "00f26cb6-f6a0-4823-ad17-6ddb1dc0db9f",
+    "4fe52219-e37f-4e2c-afc0-9042dcb4e6c9",
+    "ed61348d-9a42-4850-932f-48fada0ee94d",
+    "8dc07054-0180-4482-8eb9-9cd91ba83a24",
+    "9cd7af0f-c52e-4064-99f9-efe9854098b6",
+    "3de36204-ca1f-4ef5-81c1-753e11089d58"
+  ]
+}

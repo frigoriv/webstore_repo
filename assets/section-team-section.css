@@ -1,0 +1,90 @@
+.team-section .team-section-section.two-column{ display: grid; grid-template-columns: repeat(2,1fr);}
+.team-section .team-section-section.three-column{ display: grid;  grid-template-columns: repeat(3,1fr);}
+.team-section .team-section-section.four-column{ display: grid; grid-template-columns: repeat(4,1fr);}
+.team-section .team-section-section.five-column{ display: grid; grid-template-columns: repeat(5,1fr);}
+.team-section .team-section-section.six-column{ display: grid; grid-template-columns: repeat(6,1fr);}
+.team-section .team-section-section{ column-gap: var(--grid-desktop-horizontal-spacing); row-gap: var(--grid-desktop-vertical-spacing);}
+@media screen and (max-width: 1199px) and (min-width: 751px) {
+.team-section .team-section-section.four-column{ display: grid; grid-template-columns: repeat(2,1fr);}
+.team-section .team-section-section.five-column{ display: grid; grid-template-columns: repeat(3,1fr);}
+.team-section .team-section-section.six-column{ display: grid; grid-template-columns: repeat(3,1fr);}
+.team-section .team-section-section { column-gap: var(--grid-mobile-horizontal-spacing); row-gap: var(--grid-mobile-vertical-spacing);}  
+}
+ @media screen and (max-width: 750px) {
+ .team-section .team-section-section.two-column{ display: grid; grid-template-columns: repeat(1,1fr);}
+.team-section .team-section-section.three-column{ display: grid;  grid-template-columns: repeat(1,1fr);}
+.team-section .team-section-section.four-column{ display: grid; grid-template-columns: repeat(1,1fr);}
+.team-section .team-section-section.five-column{ display: grid; grid-template-columns: repeat(1,1fr);}
+.team-section .team-section-section.six-column{ display: grid; grid-template-columns: repeat(1,1fr);}
+.team-section .team-section-section { column-gap: var(--grid-mobile-horizontal-spacing); row-gap: var(--grid-mobile-vertical-spacing);}
+ }
+.team-section .title-wrapper-with-link.content-align--left{align-items: flex-start;}
+.team-section .title-wrapper-with-link.content-align--center{align-items: center;}
+.team-section .team-section-section .team-section-wrapper .team-section-block-image img.team-section-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.team-section-inner.banner--content-align-center {
+    align-items: center;
+    text-align: center;
+}
+.team-section-inner.banner--content-align-right {
+    align-items: flex-end;
+    text-align: right;
+}
+.team-section-inner.banner--content-align-left {
+    align-items: flex-start;
+    text-align: left;
+}
+
+.team-section .team-section-section:not(.background-none) .team-section-wrapper {
+  background: rgb(var(--color-background));
+  height: 100%;
+}
+
+.team-section .dt-sc-team-section-section.background-primary .team-section-wrapper {
+  background: rgb(var(--color-background)) linear-gradient(rgba(var(--color-foreground), 0.04), rgba(var(--color-foreground), 0.04));
+}
+.team-section p.description { max-width: 400px;  margin-top: 20px;}
+.team-section .team-section-content .team-section-inner h4.main-title a{color:var(--color-foreground);}
+.team-section .team-section-content{padding:40px 0;}
+.team-section .team-section-content h4.main-title{  margin: 0; font-size: 3rem; margin-bottom: 15px;font-weight: 500;  line-height: normal; }
+.team-section .team-section-content h6.sub-title{  margin: 0;font-size: 1.4rem;font-weight: 600; letter-spacing: 2.6px; line-height: normal;color: rgba(var(--color-base-solid-button-labels));}
+.team-section-content-icon li.list-social__item:not(:last-child) { margin-right: 70px;}
+.team-section .list-social{margin-top:0;}
+.team-section .team-section-block-image{position:relative;}
+.team-section  .team-section-block-image {  display: flex; justify-content: center;}
+.team-section .list-social__link{    padding: 0; }
+.team-section .team-section-block-image img{width:100%;}
+
+
+
+/*Overlay style*/
+.team-section-section.overlay .team-section-wrapper{ height: 500px; position: relative;}
+.team-section-section.overlay .team-section-wrapper .team-section-block-image{width:100%; height:100%; }
+.team-section-section.overlay .team-section-wrapper .team-section-content{    position: absolute; top: 0; bottom: 0; margin: auto; left: 0; right: 0; background: rgba(var(--color-background),0.4);}
+.team-section-section.overlay .team-section-wrapper .team-section-content .team-section-inner{    width: 100%;  height: 100%;  display: flex;  flex-direction: column;   justify-content: center;}
+
+/* custom css */
+.custom-team-section.team-section .team-section-slider .swiper-slide .team-section-block-image img.team-section-image{width: 306px;height: 306px;border-radius:50%;}
+.custom-team-section.team-section .team-section-slider .swiper-slide .team-section-block-image{overflow:hidden;}
+.custom-team-section.team-section .swiper-slide .team-section-block-image:after{border-radius:50%;width:306px;height:306px;bottom:0;opacity:1;background: linear-gradient(180deg, #E6CEC0, #F6E8E1);z-index:-1;transition:all 0.3s linear;}
+.custom-team-section.team-section .swiper-slide .team-section-block-image:before{content:'';position:absolute;opacity:0;border-radius:50%;width:306px;height:306px;bottom:0;opacity:0;background: linear-gradient(180deg, #E6CEC0, #F6E8E1);transition:all 0.3s linear;z-index:0;}
+.custom-team-section.team-section .swiper-slide:hover .team-section-block-image:before{opacity:0.8;}
+.custom-team-section.team-section .swiper-slide .team__list-social .list-social__item .icon{display:none;}
+.custom-team-section.team-section .swiper-slide .team__list-social li:not(:last-child) .list-social__link:after {
+    content: "-";
+    display: inline-block;
+    margin: 0 8px;color:rgb(var(--color-foreground));
+}
+.custom-team-section .team-section-content-icon li.list-social__item:not(:last-child){margin-right:0;}
+
+@media screen and (max-width: 1439px) {
+  .custom-team-section.team-section .team-section-slider .swiper-slide .team-section-block-image img.team-section-image,
+  .custom-team-section.team-section .swiper-slide .team-section-block-image:after,
+  .custom-team-section.team-section .swiper-slide .team-section-block-image:before{width:100%;height:100%;border-radius:20px;}
+}
+@media screen and (max-width: 576px) {
+  .team-section .team-section-content h4.main-title{font-size:2.4rem;}
+}

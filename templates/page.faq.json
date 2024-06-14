@@ -1,0 +1,163 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "dac594f5-6f42-441b-b718-a5640c6f4896": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16688272900316__dac594f5-6f42-441b-b718-a5640c6f4896-16672924418c53fb80-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How long do cosmetics have a shelf life?",
+            "icon": "none",
+            "row_content": "<p>Morbi id ligula scelerisque, auctor nisl quis, ultrices leo. Vivamus vitae mollis risus posuere justo. Quisque ac mauris elementum, placerat urna id, dictum leo.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16688272900316__dac594f5-6f42-441b-b718-a5640c6f4896-16672924418c53fb80-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will using your skincare products make me allergic?",
+            "icon": "none",
+            "row_content": "<p>Vivamus vitae mollis risus posuere justo. Quisque ac mauris elementum, placerat urna id, dictum leo. Morbi id ligula scelerisque, auctor nisl quis, ultrices leo. <\/p>",
+            "page": ""
+          }
+        },
+        "template--16688272900316__dac594f5-6f42-441b-b718-a5640c6f4896-16672924418c53fb80-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What Effect Does High Fashion Have On Our Brand?",
+            "icon": "none",
+            "row_content": "<p>Quisque ac mauris elementum, placerat urna id, dictum leo. Morbi id ligula scelerisque, auctor nisl quis, ultrices leo. Vivamus vitae mollis risus posuere justo. <\/p>",
+            "page": ""
+          }
+        },
+        "template--16688272900316__dac594f5-6f42-441b-b718-a5640c6f4896-16672924418c53fb80-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is Ordering Online Safe?",
+            "icon": "none",
+            "row_content": "<p>Scelerisque morbi id ligula, auctor nisl quis, ultrices leo. Vivamus vitae mollis risus posuere justo. Quisque ac mauris elementum, placerat urna id, dictum leo.<\/p>",
+            "page": ""
+          }
+        },
+        "a28c49d0-90ca-483f-bf46-d4bee34fac3b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How Long Until The Delivery Of My Order?",
+            "icon": "none",
+            "row_content": "<p>Qerbi id ligula scelerisque, auctor nisl quis, ultrices leo. Vivamus vitae mollis risus posuere justo. Quisque ac mauris elementum, placerat urna id, dictum leo.<\/p>",
+            "page": ""
+          }
+        },
+        "efe13fc1-badc-4b55-90be-da1d5ba0500b": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I Select The Currency In Which I Pay?",
+            "icon": "none",
+            "row_content": "<p>Bivamus vitae mollis risus posuere justo. Morbi id ligula scelerisque, auctor nisl quis, ultrices leo. Quisque ac mauris elementum, placerat urna id, dictum leo.<\/p>",
+            "page": ""
+          }
+        },
+        "e40cd1ac-e50d-4c7f-8231-a62898e17ab5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How much will shipping cost?",
+            "icon": "none",
+            "row_content": "<p>Ligula morbi id scelerisque, auctor nisl quis, ultrices leo. Vivamus vitae mollis risus posuere justo. Quisque ac mauris elementum, placerat urna id, dictum leo.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16688272900316__dac594f5-6f42-441b-b718-a5640c6f4896-16672924418c53fb80-0",
+        "template--16688272900316__dac594f5-6f42-441b-b718-a5640c6f4896-16672924418c53fb80-1",
+        "template--16688272900316__dac594f5-6f42-441b-b718-a5640c6f4896-16672924418c53fb80-2",
+        "template--16688272900316__dac594f5-6f42-441b-b718-a5640c6f4896-16672924418c53fb80-3",
+        "a28c49d0-90ca-483f-bf46-d4bee34fac3b",
+        "efe13fc1-badc-4b55-90be-da1d5ba0500b",
+        "e40cd1ac-e50d-4c7f-8231-a62898e17ab5"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions",
+        "heading_size": "h1",
+        "sub_heading": "BLOG & NEWS",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": true,
+        "enable_address_block": true,
+        "image": "shopify:\/\/shop_images\/Component_105_1.png",
+        "image_ratio": "adapt",
+        "address_heading": "",
+        "collapsible_address": "",
+        "collapsible_contact_no": "",
+        "collapsible_contact_id": "",
+        "desktop_layout": "image_first",
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "custom_class_name": "custom-collapsible-content"
+      }
+    },
+    "b68548fe-34eb-4d5d-a7fd-6d9a4875a3b5": {
+      "type": "featured-blog",
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "Latest News & Blog",
+        "heading_size": "h1",
+        "sub_heading": "UPDATES",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "blog": "news",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "accent-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_excerpts": true,
+        "enable_comments": false,
+        "show_view_all": false,
+        "block_banner_style": "grid-style",
+        "content_width": "50\/50",
+        "lap_content_width": "40\/60",
+        "overlay_style_height": 400,
+        "overlay_opacity": "0.5",
+        "padding_top": 140,
+        "padding_bottom": 28,
+        "custom_class_name": "",
+        "swiper_enable": false,
+        "desktop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0,
+        "swipe_on_mobile": false,
+        "arrow_on_mobile": false,
+        "columns_mobile": "1"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "dac594f5-6f42-441b-b718-a5640c6f4896",
+    "b68548fe-34eb-4d5d-a7fd-6d9a4875a3b5"
+  ]
+}

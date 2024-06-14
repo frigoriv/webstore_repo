@@ -1,0 +1,204 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "162286e9-7256-474a-a8cf-381e26c43fac": {
+      "type": "contact-address-section",
+      "blocks": {
+        "template--18804265550120__162286e9-7256-474a-a8cf-381e26c43fac-1684302704f370b877-0": {
+          "type": "column",
+          "settings": {
+            "address_icon": "shopify:\/\/shop_images\/Location_-_Icon_c8b8e4ec-27fa-48eb-93cb-2ed8009ebfa3.png",
+            "block_address": "1819 Spruce Way, Winnipeg, MB R3C 0A5",
+            "mail_icon": "shopify:\/\/shop_images\/Mail_-_Icon_1f40fc1b-878a-4ffa-ad58-d66946010b1f.png",
+            "block_contact_mail": "info@example.com",
+            "phone_icon": "shopify:\/\/shop_images\/Phone_-_Icon_f3f587b9-aa77-4f7f-ae58-3c0de4f3a0d0.png",
+            "block_contact_no": "000-123-456-789"
+          }
+        },
+        "template--18804265550120__162286e9-7256-474a-a8cf-381e26c43fac-1684302704f370b877-1": {
+          "type": "column",
+          "settings": {
+            "address_icon": "shopify:\/\/shop_images\/Location_-_Icon_c8b8e4ec-27fa-48eb-93cb-2ed8009ebfa3.png",
+            "block_address": "1213 Oak Lane, Montreal, QC H3C 5S4",
+            "mail_icon": "shopify:\/\/shop_images\/Mail_-_Icon_1f40fc1b-878a-4ffa-ad58-d66946010b1f.png",
+            "block_contact_mail": "contact@example.com",
+            "phone_icon": "shopify:\/\/shop_images\/Phone_-_Icon_f3f587b9-aa77-4f7f-ae58-3c0de4f3a0d0.png",
+            "block_contact_no": "000 -123456789"
+          }
+        },
+        "template--18804265550120__162286e9-7256-474a-a8cf-381e26c43fac-1684302704f370b877-2": {
+          "type": "column",
+          "settings": {
+            "address_icon": "shopify:\/\/shop_images\/Location_-_Icon_c8b8e4ec-27fa-48eb-93cb-2ed8009ebfa3.png",
+            "block_address": "456 Elm Avenue, Suite 100, Denver, CO 80022",
+            "mail_icon": "shopify:\/\/shop_images\/Mail_-_Icon_1f40fc1b-878a-4ffa-ad58-d66946010b1f.png",
+            "block_contact_mail": "support@example.com",
+            "phone_icon": "shopify:\/\/shop_images\/Phone_-_Icon_f3f587b9-aa77-4f7f-ae58-3c0de4f3a0d0.png",
+            "block_contact_no": "000- 12-345-6789"
+          }
+        }
+      },
+      "block_order": [
+        "template--18804265550120__162286e9-7256-474a-a8cf-381e26c43fac-1684302704f370b877-0",
+        "template--18804265550120__162286e9-7256-474a-a8cf-381e26c43fac-1684302704f370b877-1",
+        "template--18804265550120__162286e9-7256-474a-a8cf-381e26c43fac-1684302704f370b877-2"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "Our Branches at",
+        "heading_size": "h1",
+        "sub_heading": "TOP-RATED",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "columns_desktop": 3,
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "icon_outer_size": "20",
+        "block_color_scheme": "accent-2",
+        "hover_image": "shopify:\/\/shop_images\/Group_24627.png",
+        "padding_top": 60,
+        "padding_bottom": 160,
+        "swiper_enable": false,
+        "desktop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "auto_play": 0,
+        "swipe_on_mobile": true,
+        "arrow_on_mobile": true,
+        "columns_mobile": "1",
+        "custom_class_name": "custom-contact-section"
+      }
+    },
+    "0b8c12a8-0a65-4c8c-b88c-2a212202886f": {
+      "type": "form-image",
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": false,
+        "sub_heading": "Contact Form",
+        "heading": "Ask Us Anything",
+        "heading_size": "h1",
+        "description": "",
+        "color_scheme": "accent-2",
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m12!1m3!1d4013436.3643496064!2d78.2885026!3d10.78283645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1672724843284!5m2!1sen!2sin\" width=\"100%\" height=\"750\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "secondary_bg_image": "shopify:\/\/shop_images\/Group_7163.png",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b00cb236-0029-4168-99a5-576803e86dae": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "page_full_width": true,
+        "page_full_width_spacing": false,
+        "custom_liquid": "<iframe src=\"https:\/\/www.google.com\/maps\/embed?pb=!1m14!1m12!1m3!1d4013436.3643496064!2d78.2885026!3d10.78283645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1672724843284!5m2!1sen!2sin\" width=\"100%\" height=\"620\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"><\/iframe>",
+        "color_scheme": "background-1",
+        "padding_top": 0,
+        "padding_bottom": 20,
+        "address_heading": "Our Location",
+        "address_desc": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posue. Nunc vehicula quam semper odio varius tincidunt.",
+        "collapsible_address": "No: 58 A, East Madison Street,\nBaltimore, MD, USA 4508",
+        "collapsible_contact_no": "+000 123 456789",
+        "collapsible_contact_id": "contact@example.com"
+      }
+    },
+    "fd9ff675-a38b-459a-bedf-7545bce60d2c": {
+      "type": "brand-logos",
+      "blocks": {
+        "template--18804265550120__fd9ff675-a38b-459a-bedf-7545bce60d2c-16842470015465ee98-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_1.png",
+            "link": "\/"
+          }
+        },
+        "template--18804265550120__fd9ff675-a38b-459a-bedf-7545bce60d2c-16842470015465ee98-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_2.png",
+            "link": "\/"
+          }
+        },
+        "template--18804265550120__fd9ff675-a38b-459a-bedf-7545bce60d2c-16842470015465ee98-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_3.png",
+            "link": "\/"
+          }
+        },
+        "c4147824-2a92-465e-b76c-437dc9ff752e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_4.png",
+            "link": "\/"
+          }
+        },
+        "9bc597fb-b6d9-448e-a7dd-00c943fbc2d9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo_5.png",
+            "link": "\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--18804265550120__fd9ff675-a38b-459a-bedf-7545bce60d2c-16842470015465ee98-0",
+        "template--18804265550120__fd9ff675-a38b-459a-bedf-7545bce60d2c-16842470015465ee98-1",
+        "template--18804265550120__fd9ff675-a38b-459a-bedf-7545bce60d2c-16842470015465ee98-2",
+        "c4147824-2a92-465e-b76c-437dc9ff752e",
+        "9bc597fb-b6d9-448e-a7dd-00c943fbc2d9"
+      ],
+      "settings": {
+        "page_full_width": false,
+        "page_full_width_spacing": false,
+        "title": "",
+        "heading_size": "h1",
+        "sub_heading": "",
+        "description": "",
+        "button_label": "",
+        "button_link": "",
+        "button_style_secondary": false,
+        "column_alignment": "center",
+        "columns_desktop": 5,
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "block_color_scheme": "background-1",
+        "padding_top": 160,
+        "padding_bottom": 36,
+        "custom_class_name": "custom-brandlogo",
+        "swiper_enable": false,
+        "desktop_column": 4,
+        "tablet_column": 3,
+        "mobile_column": 1,
+        "swiper_pagination": false,
+        "swiper_navigation": false,
+        "centered_slide": false,
+        "auto_play": 0,
+        "swipe_on_mobile": true,
+        "columns_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "162286e9-7256-474a-a8cf-381e26c43fac",
+    "0b8c12a8-0a65-4c8c-b88c-2a212202886f",
+    "b00cb236-0029-4168-99a5-576803e86dae",
+    "fd9ff675-a38b-459a-bedf-7545bce60d2c"
+  ]
+}

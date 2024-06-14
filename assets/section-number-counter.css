@@ -1,0 +1,87 @@
+.number-counter-section.grid--1-col-desktop { display: grid;  grid-template-columns: repeat(1,1fr);}
+.number-counter-section.grid--2-col-desktop { display: grid;  grid-template-columns: repeat(2,1fr);}
+.number-counter-section.grid--3-col-desktop { display: grid;  grid-template-columns: repeat(3,1fr);}
+.number-counter-section.grid--4-col-desktop { display: grid; grid-template-columns: repeat(4,1fr);}
+.number-counter-section.grid--5-col-desktop {  display: grid; grid-template-columns: repeat(5,1fr);}
+.number-counter-section.grid--6-col-desktop { display: grid; grid-template-columns: repeat(6,1fr);}
+.number-counter-block.column-alignment-center{ align-items: center;  display: flex; flex-direction: column;}
+.number-counter-block.column-alignment-left{text-align:left;}
+.number-counter-icon img.support-block-card__image{width:100px; height:auto;}
+@media screen and (max-width: 749px){
+.number-counter-section.grid--4-col-desktop{
+  display: grid;  grid-template-columns: repeat(2,1fr);
+}
+}
+/* @media screen and (min-width: 750px) and (max-width: 1200px) {
+.number-counter-section.grid--4-col-desktop{
+  display: grid;  grid-template-columns: repeat(3,1fr);
+}
+} */
+.number-counter-section-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.number-counter-section{ align-items:flex-start;}
+
+
+/* custom css */
+.custom-number-counter .title-wrapper-with-link .description{max-width:800px;margin: 35px 0 0;}
+.custom-number-counter .title-wrapper-with-link{margin:0 0 64px;}
+.custom-number-counter .number-counter-social-section p.author-name {
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 2.6px;
+    margin: 30px 0 0;
+}
+.custom-number-counter .number-counter-social-section span.author-destination{color:rgba(var(--color-base-solid-button-labels));}
+.custom-number-counter .counter__list-social{margin-top:15px;}
+.custom-number-counter .counter__list-social li:not(:last-child) .list-social__link:after {
+    content: "-";
+    display: inline-block;
+    margin: 0 8px;
+    font-family: var(--font-body-family);color: rgb(var(--color-foreground));
+}
+.custom-number-counter .counter__list-social .list-social__item .icon {display: none;}
+.custom-number-counter .counter__list-social .list-social__link {
+    font-weight: 400;
+    font-family: var(--font-heading-family);
+    padding: 0;
+}
+.custom-number-counter .number-counter-section{padding: 78px 170px 0;}
+.custom-number-counter .number-counter-section .number-counter-block h3{font-size: 50px;margin: 0;font-weight: 500;position:relative;width:138px;}
+.custom-number-counter .number-counter-section .number-counter-block .number-counter-title{margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 2.6px;
+    text-transform: uppercase;
+    color: rgba(var(--color-base-solid-button-labels));font-family: var(--font-body-family)}
+.custom-number-counter .number-counter-section .number-counter-block{position:relative;transition:all 0.3s linear;width: max-content;
+    margin: auto;}
+.custom-number-counter .number-counter-section .number-counter-block h3:before{content:'';width:138px;height:138px;
+  border-radius:50%;border:1px solid var(--gradient-base-background-2);position:absolute;top: 50%;margin: auto;bottom: 0;left: -20px;transition:all 0.3s linear;opacity:0;z-index:-1;}
+.custom-number-counter .number-counter-section .number-counter-block:hover h3:before{opacity:1;}
+.custom-number-counter .number-counter-section .number-counter-block h3:after{content:'';width:0;height:1px;transition:all 0.3s linear;background:var(--gradient-base-background-2);position: absolute;top: 70%;right: -78%;transform: translateY(-50%);opacity:0}
+.custom-number-counter .number-counter-section .number-counter-block:hover h3:after{width:128px;opacity:1;}
+
+
+
+@media screen and (max-width: 1540px){
+.custom-number-counter .number-counter-section{padding: 78px 100px 0;}
+.custom-number-counter .number-counter-section .number-counter-block h3:after{right: -50%;}
+.custom-number-counter .number-counter-section .number-counter-block:hover h3:after{width:90px;} 
+  
+}
+@media screen and (max-width: 1199px){
+.custom-number-counter .number-counter-section{padding: 78px 0px 0;}
+}
+@media screen and (max-width: 990px){
+.custom-number-counter  .number-counter-section{grid-template-columns: repeat(2,1fr);column-gap: var(--grid-desktop-horizontal-spacing);row-gap: var(--grid-desktop-vertical-spacing);}
+.custom-number-counter .number-counter-section .number-counter-block:hover h3:after{opacity:0;}
+.custom-number-counter .number-counter-section .number-counter-block h3{width:100%;}  
+}
+@media screen and (max-width: 430px){
+.custom-number-counter .number-counter-section .number-counter-block .number-counter-title{font-size:10px;letter-spacing:1px;}
+.custom-number-counter .number-counter-section .number-counter-block h3{font-size:30px;}  
+.custom-number-counter .number-counter-section .number-counter-block h3:before{width:100px;height:100px;}  
+}
